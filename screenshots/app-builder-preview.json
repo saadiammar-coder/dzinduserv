@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "DzInduServ — Ingénierie, construction et maintenance industrielle",
+      "hasCanvas": false,
+      "bodyTextLen": 5395,
+      "bodyTextHash": "802d7c6ec8e51b4750aa63de1ddbb260d181f68d7b17c69f851e25e14946c818",
+      "bodyTextPrefix": "Aller au contenu DZ DzInduServ Industrie · Algérie Métiers Secte",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "DzInduServ — Ingénierie, construction et maintenance industrielle",
+      "hasCanvas": false,
+      "bodyTextLen": 5348,
+      "bodyTextHash": "b27dfc820f4910d0d209340af106e308cdb51d9335d68bb8c2495a3bebb11160",
+      "bodyTextPrefix": "Aller au contenu DZ DzInduServ Industrie · Algérie Ouvrir le men",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
